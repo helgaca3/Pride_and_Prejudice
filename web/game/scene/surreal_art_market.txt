@@ -1,0 +1,95 @@
+bgm:chill2.mp3;
+changeBg:Nailsalon2.png -next;
+changeFigure:Unail2.png -next;
+changeFigure:Katie.png -right -next;
+Katie:So, you’ve been working here for four years? -fontSize=default;
+setTextbox:on;
+Nail Tech Girl:Yeah. I started right after high school. -fontSize=default;
+changeFigure:Katie2.png -right -next;
+Katie:Wow, kinda jealous. Must be nice to start earning so early. -fontSize=default;
+changeFigure:Unail.png -next;
+Nail Tech Girl:Haha... -fontSize=default;
+changeFigure:Unail2.png -next;
+I actually wanted to study illustration, but some stuff happened with my family, so I had to start working instead.| -fontSize=default;
+changeFigure:Katie.png -right -next;
+Katie:Illustration? That’s really cool. I had a friend who studied that too. -fontSize=default;
+changeFigure:Katie2.png -right -next;
+For illustration, I’ve always thought there’s something uniquely compelling about replicas. -fontSize=default;
+changeBg:Bookmark2.png -next;
+changeFigure:Kai2.png;
+bgm:chill2.mp3;
+changeFigure:Katie.png -right -next;
+changeFigure:Kai1.png -next;
+Kai:It’s rare to meet a fine arts student who actually has such an objective view on illustration. -fontSize=default;
+changeFigure:Kai2.png -next;
+Most of them just think we draw shallow kids’ stuff. -fontSize=default;
+changeFigure:Katie2.png -right -next;
+Katie:Haha, I don’t see illustration as some closed-off philosophical practice or an isolated discipline within the contemporary visual field. -fontSize=default;
+On the contrary, it’s just one of many possible contexts in which images can exist. -fontSize=default;
+changeFigure:Katie.png -right -next;
+And personally, I really like your work. -fontSize=default;
+changeFigure:Kai1.png -next;
+Kai:Talented people are everywhere, but finding someone who actually sees it? That’s the hard part! -fontSize=default;
+Kai:I’ve put out a few comics and zines too. Visual storytelling is what I’m passionate about. -notend -fontSize=default;
+changeFigure: -next;
+changeFigure: -right -next;
+changeBg:Bookmark.png;
+Not that they’re selling great, haha... -fontSize=default;
+Katie:That’s the way it should be.|It’s called a book fair for a reason—it should center on books and zines. -fontSize=default;
+And yet what sells best are always the tiny greeting cards and stickers. -fontSize=default;
+It’s so backwards. Honestly, it just discourages people who actually care about putting effort into their book making. -fontSize=default;
+Kai:I guess that’s just how the business works. What can I say?|Some people won’t even bother to open my book.| -fontSize=default;
+Katie:By the way, I should follow your artist page. Our department has a few open calls going on, and honestly, I think your style fits perfectly.  -fontSize=default;
+changeFigure:Katie2.png -next;
+bgm:none;
+changeBg:Bookmark2.png -next;
+I really, really like your work. -fontSize=default;
+changeFigure: -next;
+changeBg:none;
+You:Wow, high praise.|So my work’s not “shit” now, huh? -fontSize=default;
+changeBg:lookfamiliar2.png;
+Nail Tech Girl:No. -fontSize=default;
+changeBg:none;
+Katie:Of course your art’s not shit.  -fontSize=default;
+changeBg:les.png -next;
+bgm:argue.mp3;
+Hey, I know you’ve been under a lot of pressure lately.  -fontSize=default;
+Posting your work online is always going to attract trolls. -fontSize=default;
+Kai:Of course I know that. It just… still feels awful. I know I shouldn't care about those useless comments. But still...| -fontSize=default;
+Katie:I get that you’re upset. But this is part of being an artist. Why waste your energy on people who clearly aren’t worth it?| -fontSize=default;
+Kai:I don’t get why you always have to shut down my feelings. Sometimes I’m just venting—I don’t need a lecture or a fix. -fontSize=default;
+changeBg:les2.png;
+I already know the logic. I just want you to say something nice, tell me it’s okay, comfort me a little. That’s it. -fontSize=default;
+Katie:Don’t you think you’ve been venting a bit too much lately? If I coddle you every time, what’s next? | -fontSize=default;
+Doing emotional spa treatments every time you have a bad day isn’t helping you. When I’m upset, I deal with it myself. -fontSize=default;
+Kai:That's because you never realize how much emotional labor I’ve been putting into this relationship. -fontSize=default;
+Half the time you want something but don’t say it outright—so I have to guess, read between the lines, analyze what’s going on with you. -fontSize=default;
+Even when I caught you flirting with other girls online, the first thing I did was ask why you did it—not scream, not explode.  -fontSize=default;
+And you hit me back with logic and detachment. Like, what the fuck was that? -fontSize=default;
+Katie:What’s the point of bringing that up now? -fontSize=default;
+changeBg:les3.png;
+Kai:I hate the version of myself when I’m with you. |I keep lowering my standards, over and over. -fontSize=default;
+I take on way too much of what’s not mine. And some things, I just can’t change—like you. We think so differently. -fontSize=default;
+At first, I thought being together meant we could grow and adapt. But I never stopped to ask if you even wanted to change. -fontSize=default;
+Who the fuck wants to be dragged along all the time? At the end of the day, it’s just me—romanticizing my own suffering. | -fontSize=default;
+God, I’m so fucking done. |Fuck this. -fontSize=default;
+Katie:Just calm down for a second. -fontSize=default;
+Kai:Fine. Thanks for everything, I guess. -fontSize=default;
+Katie:What’s that supposed to mean? |Again? -fontSize=default;
+unlockCg:les3.png;
+unlockCg:les.png;
+unlockCg:les2.png;
+setTextbox:hide;
+changeBg:none;
+changeBg:driving.png;
+setAnimation:blur -target=bg-main;
+changeBg: 选择背景图片;
+unlockCg:driving.png;
+setAnimation:enter-from-right -target=0 -next;
+changeBg:car.png;
+changeBg:ending.png;
+:【TRUE END】 Not Shit. -notend -fontSize=default;
+setTextbox:on;
+intro:Written, Designed, Illustrated, and Programmed: Xi Zhu|Music : MaouDamashii|Engine: WebGAL (HTML5 Visual Novel Framework)| -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:Copyright & License This project is a non-commercial independent production. All third-party assets are credited and belong to their respective creators. Please do not redistribute or use any part of this game for commercial purposes without permission. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+end;

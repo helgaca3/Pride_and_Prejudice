@@ -1,0 +1,16 @@
+changeBg:none;
+changeFigure:none;
+intro:When people see something they don’t understand,| their hostility isn’t really about the artwork.|It’s about their own frustrations. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold -userForward;
+bgm:chill2.mp3;
+changeBg:forgive.png;
+:You represent a world they can’t reach.|One they instinctively reject—or even resent. -fontSize=default;
+:If they truly didn’t care, why wouldn’t they just scroll past?|Why would a painting make them angry?| -fontSize=default;
+:This must trigger something deep within them—a psychological defense, a kind of buried insecurity. -fontSize=default;
+:With that in mind, you decide to let it go. -fontSize=default;
+:【GOOD END】 You feel… a little more enlightened. -fontSize=large;
+unlockCg:forgive.png -name=【GOOD END】 You feel… a little more enlightened.;
+changeBg: -transform={"dotFilm":1};
+bgm:none;
+:You have great vision—aren’t you satisfied? -notend -fontSize=default;
+changeFigure:Uside_cute.png;
+end;

@@ -1,0 +1,8 @@
+Game_name:pride_and_prejudice;
+Game_key:131c6de6d51a5c2;
+Title_img:Cover4.png;
+Title_bgm:op.mp3;
+Textbox_theme:imss;
+Description:pride_and_prejudice;
+Game_Logo:Cover3.png;
+Package_name:pride_and_prejudice;

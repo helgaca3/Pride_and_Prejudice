@@ -1,0 +1,15 @@
+intro:Can't she just cut me some slack? -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+changeBg:torture1.png;
+Nail Tech Girl:... -fontSize=default -id;
+intro:I am just a nail tech girl who made a small mistake. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+changeBg:torturelate.png;
+changeBg:torturelate2.png;
+Ponytail Girl:Why don't you speak? -electric-whoosh-01-204487.mp3 -notend -fontSize=default;
+setTextbox:on;
+setAnimation:shake -target=bg-main;
+Hello? -electric-whoosh-01-204487.mp3 -notend -fontSize=large;
+setAnimation:shake -target=bg-main;
+changeBg:none;
+Nail Tech Girl:It's true that I am just a nail tech girl who made a mistake. -fontSize=default;
+And my biggest mistake was joining this damn nail salon. -notend -fontSize=default;
+changeScene:surreal_nail_salon.txt
